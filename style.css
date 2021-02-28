@@ -1,0 +1,18 @@
+.header {
+  margin: 0;
+  padding: 0;
+  border: 5px solid maroon;
+  background-color: darkgray;
+  color: purple;
+}
+* {
+  margin: 0;
+  padding: 0;
+  background: rgb(201, 250, 201);
+  background-repeat: no-repeat;
+}
+.images {
+  margin: 0;
+  padding: 0;
+  align-content: center;
+}
